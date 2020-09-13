@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Hungnt's github stats](https://github-readme-stats.vercel.app/api?username=kiyoshitaro&theme=gruvbox&show_icons=true)](https://github.com/kiyoshitaro/kiyoshitaro)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoshitaro&hide=cmake,html,css,makefile&langs_count=12&layout=compact)](https://github.com/kiyoshitaro/kiyoshitaro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoshitaro&hide=cmake&langs_count=12&layout=compact)](https://github.com/kiyoshitaro/kiyoshitaro)
 
 
 <!--
