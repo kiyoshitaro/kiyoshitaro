@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoshitaro&hide=cmake,makefile&langs_count=12&layout=compact)](https://github.com/kiyoshitaro/kiyoshitaro)
 
 
-<a href="https://app.daily.dev/kiyoshitaro"><img src="https://api.daily.dev/devcards/54e2998a11ac4c028468def6a1d64bda.png?r=rzx" width="400" alt="Nguyễn Tuấn Hưng's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/kiyoshitaro"><img src="https://api.daily.dev/devcards/54e2998a11ac4c028468def6a1d64bda.png?r=rzx" width="400" alt="Nguyễn Tuấn Hưng's Dev Card"/></a> -->
 <!--
 **kiyoshitaro/kiyoshitaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
