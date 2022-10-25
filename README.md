@@ -22,10 +22,6 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kiyoshitaro&repo=kaggle_model_sample&theme=gruvbox" />
 </a>
-<a href="https://github.com/phanmduong/keetool-client-react/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kiyoshitaro&repo=keetool-client-react&theme=gruvbox" />
-</a>
 
 <!--
 **kiyoshitaro/kiyoshitaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
