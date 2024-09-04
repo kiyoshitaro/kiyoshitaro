@@ -81,9 +81,9 @@
 ## <p>Github Statistics 📊</p>
 
 <div align="center">
-<img height="125px" src="https://github-readme-stats.vercel.app/api?username=kiyoshitaro&theme=gruvbox&show_icons=true"/>
-<img height="125px" src="https://streak-stats.demolab.com?user=kiyoshitaro&theme=gruvbox&date_format=j%2Fn%5B%2FY%5D" />
-<img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoshitaro&theme=gruvbox&show_icons=true&card_width=400&hide=cmake,makefile,jupyter%20notebook,html&langs_count=10&layout=compact" />
+<img height="120px" src="https://github-readme-stats.vercel.app/api?username=kiyoshitaro&theme=gruvbox&show_icons=true"/>
+<img height="120px" src="https://streak-stats.demolab.com?user=kiyoshitaro&theme=gruvbox&date_format=j%2Fn%5B%2FY%5D" />
+<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoshitaro&theme=gruvbox&show_icons=true&card_width=400&hide=cmake,makefile,jupyter%20notebook,html&langs_count=10&layout=compact" />
 </div>
 <div align="center">
 <!-- <img height="200px" width="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=kiyoshitaro&theme=gruvbox&layout=compact&langs_count=8" alt="Kiyoshitaro's WakaTime in last year"/> -->
