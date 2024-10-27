@@ -1,6 +1,7 @@
 # Nguyen Tuan Hung
-
+<!-- 
 > "Task failed successfully" - undefined
+ -->
 
 - I’m a software engineer passionate about blockchain and AI, constantly exploring innovative technologies and resolve problems.
 - I am currently working as a Backend Engineer with 3 years of experience building web3 applications (tele-bot, socialfi, gamblefi,...) and some experience with AI applications leverage LLMs. I enjoy developing projects with innovative ideas from prototypes, optimizing and scaling them for a wide user.
@@ -11,9 +12,9 @@
 
 ## Tech Stack
 - **Languages:** TypeScript, JavaScript, Python, C#, C++
-- **Frameworks & Platforms:** NestJS, NodeJS, Express.js, SocketIO, Ethersjs, Web3JS, Langchain, Telegram Miniapp/Bot, RabbitMQ, Conda, Flask, PyTorch, Scraper, React, Nextjs, .NET
+- **Frameworks & Platforms:** NestJS, NodeJS, Express.js, SocketIO, Ethersjs, Langchain, Telegram Miniapp/Bot, RabbitMQ, Conda, Flask, PyTorch, Scraper, React, Nextjs, .NET
 - **Data Storage:** PostgreSQL, Redis, Timescale, Milvus, Firestore, MongoDB
-- **Deployment:** Docker, Git, Google Cloud, Ngrok, Cloudflare, 
+- **Deployment:** Docker, Git, Google Cloud, Ngrok
 - **Tools:** ChatGPT, Tmux, DBeaver, Sentry, Colab, Latex, Lookerstudio
 
 <!-- 
