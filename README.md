@@ -12,10 +12,10 @@
 
 ## Tech Stack
 - **Languages:** TypeScript, JavaScript, Python, C#, C++
-- **Frameworks & Platforms:** NestJS, NodeJS, Express.js, SocketIO, Ethersjs, Langchain, Telegram Miniapp/Bot, RabbitMQ, Conda, Flask, PyTorch, Scraper, React, Nextjs, .NET
+- **Frameworks & Platforms:** NestJS, NodeJS, Express.js, SocketIO, Ethersjs, Langchain, Telegram Miniapp/Bot, RabbitMQ, Conda, Flask, PyTorch, React, Nextjs, .NET
 - **Data Storage:** PostgreSQL, Redis, Timescale, Milvus, Firestore
-- **Deployment:** Docker, Git, Google Cloud, Ngrok
-- **Tools:** ChatGPT, Tmux, DBeaver, Sentry, Colab, Latex, Lookerstudio
+- **Deployment:** Docker, Git, Google Cloud, Ngrok, Nginx
+- **Tools:** ChatGPT, Tmux, DBeaver, Colab, Latex, Lookerstudio
 
 <!-- 
 ## Profile 
