@@ -13,8 +13,8 @@
 [Gmail](mailto:hunglhp1998@gmail.com) | [Telegram](https://t.me/Oxtardis)
 
 ## Tech Stack
-- **Languages:** TypeScript, JavaScript, Python, C#, C++
-- **Frameworks & Libs:** NestJS, NodeJS, SocketIO, RabbitMQ, PyTorch, .NET, Nginx
+- **Languages:** TypeScript, JavaScript, Python, Go, C++, C#
+- **Frameworks & Libs:** NestJS, NodeJS, SocketIO, RabbitMQ, PyTorch
 - **Data Storage:** PostgreSQL, Redis, Timescale, Milvus, Firestore
 - **Deployment:** Docker, Google Cloud, Ngrok
 - **Tools:** Git, Tmux, DBeaver, Colab, Latex
